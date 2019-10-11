@@ -17,3 +17,14 @@ H3{
   font-family: courier new;
 
       }
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: Red;
+    color: white;
+}
