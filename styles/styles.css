@@ -28,3 +28,11 @@ tfoot {
     background-color: Red;
     color: white;
 }
+span:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+a:hover{
+    text-decoration: underline;
+    color:aqua;
+}
