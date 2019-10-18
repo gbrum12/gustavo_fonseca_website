@@ -1,26 +1,29 @@
 body {
-  background-color: aquamarine;
-  font-family: sans-serif;
+    background-color: aquamarine;
+    font-family: sans-serif;
+    text-align:center;
 }
 
-h1{
-  color:blue;
-  font-family:luminari;
+h1 {
+    color: blue;
+    font-family: luminari;
 }
 
-H3{
-  color:green;
-  font-family: courier new;
+H3 {
+    color: green;
+    font-family: courier new;
 }
-  dt{
-      color:green;
-  font-family: courier new;
 
-      }
+dt {
+    color: green;
+    font-family: courier new;
+
+}
 
 table,
 td {
     border: 1px solid #333;
+
 }
 
 thead,
@@ -28,11 +31,13 @@ tfoot {
     background-color: Red;
     color: white;
 }
-span:hover{
+
+span:hover {
     text-decoration: underline;
     color: aqua;
 }
-a:hover{
+
+a:hover {
     text-decoration: underline;
-    color:aqua;
+    color: aqua;
 }
